@@ -1,6 +1,6 @@
 # Outdoor-adventure-exercice
 
-Intégration (HTML, CSS) d'une maquette fournie (par blocs et en intégralité)
+Intégration (HTML, CSS) d'une maquette fournie (par blocs puis en intégralité)
 
 ---
 
